@@ -31,5 +31,8 @@
   "homepage": "https://github.com/NOALVO/ape#readme",
   "engines": {
     "node": ">=8.9.4"
+  },
+  "dependencies": {
+    "original-url": "^1.2.1"
   }
 }
