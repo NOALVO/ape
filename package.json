@@ -1,0 +1,32 @@
+{
+  "name": "ape",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ultra-minimalistic Node.js redirect server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOALVO/ape.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "nodejs",
+    "server",
+    "httpserver",
+    "http",
+    "server",
+    "http",
+    "redirect"
+  ],
+  "author": "Gustavo Gondim (gustavo@midianoalvo.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NOALVO/ape/issues"
+  },
+  "homepage": "https://github.com/NOALVO/ape#readme"
+}
