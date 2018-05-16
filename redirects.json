@@ -1,0 +1,6 @@
+{
+  "defaultDestination": "http://facebook.com",
+  "redirects": [
+    { "host": "vagas.midianoalvo.com.br", "path": "abcd", "destination": "http://google.com", "status": 301 }
+  ]
+}
