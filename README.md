@@ -1,3 +1,4 @@
+![apé](https://github.com/NOALVO/ape/raw/master/ape2.png)
 # apé
 > Ultra-minimalistic Node.js redirect server.
 
@@ -54,6 +55,9 @@ This repository is already configured for an Azure deployment. If you use this c
 #### Other clouds
 
 PLEASE. Make a pull request!
+
+## Curiosity
+**_Apé_** is a word in Tupi-Guarani, a native south-american indian language, that means "the path".
 
 ## Roadmap
 
