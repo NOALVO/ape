@@ -1,6 +1,6 @@
 {
   "name": "ape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Ultra-minimalistic Node.js redirect server.",
   "main": "server.js",
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/NOALVO/ape#readme",
   "engines": {
-      "node": ">=8.9.4"
+    "node": ">=8.9.4"
   }
 }
