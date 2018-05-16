@@ -1,6 +1,6 @@
 {
   "name": "ape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "Ultra-minimalistic Node.js redirect server.",
   "main": "server.js",
