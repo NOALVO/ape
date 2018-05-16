@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/NOALVO/ape/issues"
   },
-  "homepage": "https://github.com/NOALVO/ape#readme"
+  "homepage": "https://github.com/NOALVO/ape#readme",
+  "engines": {
+      "node": ">=8.9.4"
+  }
 }
